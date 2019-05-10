@@ -23,7 +23,7 @@ UnitBlueprint {
             },
         },
         AnimationWalkRate = 1.5,
-        MovementEffects = {
+        MovementEffects = { 
             Land = {
                 Footfall = {
                     Damage = {
