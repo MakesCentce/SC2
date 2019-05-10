@@ -1,0 +1,124 @@
+-------------------
+-- Illuminate
+-------------------
+
+UnitBlueprint {
+   Merge = true,
+   BlueprintId = "uix0111", -- Illuminate Universal Colossus
+
+    Categories = {
+	[20] = 'COLOSSUSA', -- Added catagory. Makes it so ACU can build unit directly. Currently unused without ACU Blueprint merge
+    },
+    Defense = {
+        AirThreatLevel = 20, -- Can now attack air units.
+        Health = 67500000,
+        MaxHealth = 67500000,
+        RegenRate = 150,
+    },
+    Display = {
+        AnimationDeath = {
+            {
+                AnimationRateMax = 0.25,
+                AnimationRateMin = 0.12,
+            },
+        },
+        AnimationWalkRate = 1.5,
+        MovementEffects = {
+            Land = {
+                Footfall = {
+                    Damage = {
+                        Amount = 10000,
+                        Radius = 10,
+                    },
+                },
+            },
+            Seabed = {
+                Footfall = {
+                    Damage = {
+                        Amount = 10000,
+                        Radius = 10,
+                    },
+                },
+            },
+        },
+        UniformScale = 0.5,
+    },
+    Economy = {
+        BuildTime = 6,
+        EnergyValue = 4,
+        MassValue = 9,
+    },
+    General = {
+        CapCost = 999, --[[Need to change unit cap from settings (AppData\Local\Gas Powered Games\Supreme Commander 2\Game.prefs -> UnitCap
+	 = '1000',)--]]
+	-- In my video, this was 1000, and was built directly from ACU. Here the cap is 999, so a gantry can be built, it's still built from there.
+        ExperienceValue = 5000,
+    },
+    Intel = {
+        VisionRadius = 375,
+        WaterVisionRadius = 375,
+        WaterVisionradius = 250,
+    },
+    Navigation = {
+        Radius = 25.6,
+    },
+    Physics = {
+        MaxSpeed = 30,--The fast
+    },
+    SelectionSizeX = 22,
+    SelectionSizeZ = 17,
+    SizeX = 27.5,
+    SizeY = 70, -- Size Quintupled
+    SizeZ = 20,
+    Weapons = {
+        [1] = {-- Multiple weapons, uses curly brackets. Need to state which weapon that is being edited, in that case, 1.
+            MaxRadius = 150,--Body yaw weapon, makes the unit turn to attack enemies
+            MinRadius = 0,
+        },
+        [2] = {--Eye laser weapon
+            Damage = 50000,
+            FireTargetLayerCaps = {
+                Land = 'Land|Water|Seabed|Air',--Allows it to target air units
+                Seabed = 'Land|Water|Seabed|Air',
+            },
+            MaxRadius = 150,
+            MinRadius = 0,
+        },
+        [3] = {--Death claw weapon Picks up units. Note - I used shadowing so it can also pick up naval units & experimentals
+            FireTargetLayerCaps = {
+                Land = 'Land|Water|Seabed|Air',
+                Seabed = 'Land|Water|Seabed|Air',
+            },
+            MaxRadius = 100,
+            MinRadius = 0,
+        },
+        [4] = {--Death claw weapon for thrown units
+            FireTargetLayerCaps = {
+                Land = 'Land|Water|Seabed|Air',
+                Seabed = 'Land|Water|Seabed|Air',
+            },
+            MaxRadius = 100,
+            MinRadius = 0,
+        },
+        [5] = {--Death claw weapon
+            FireTargetLayerCaps = {
+                Land = 'Land|Water|Seabed|Air',
+                Seabed = 'Land|Water|Seabed|Air',
+            },
+            MaxRadius = 100,
+            MinRadius = 0,
+        },
+        [6] = {--Death claw weapon for thrown units
+            FireTargetLayerCaps = {
+                Land = 'Land|Water|Seabed|Air',
+                Seabed = 'Land|Water|Seabed|Air',
+            },
+            MaxRadius = 100,
+            MinRadius = 0,
+        },
+        [7] = {--Death weapon (explosion when the unit is killed)
+            Damage = 100000,
+            DamageRadius = 60,
+        },
+    },
+}
