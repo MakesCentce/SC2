@@ -1,0 +1,282 @@
+--------------------------------
+--Cybran
+--------------------------------
+
+Air units -
+
+uca0021 - Cybran build drone
+UCA0103 - Renegade Gunship
+UCA0104 - Gemini Fighter / Bomber
+UCA0901 - Dragon Fly Air Transport
+
+Structure Units - 
+
+UCB0001 - Land Factory
+UCB0002 - Air Factory
+UCB0003 - Sea Factory
+UCB0011 - Land Gantry
+UCB0012 - Air Gantry
+UCB0021 - Cybran Build Scaffolding
+UCB0022 - Cybran Build Scaffolding
+UCB0023 - Cybran Build Scaffolding
+UCB0024 - Cybran Build Scaffolding
+UCB0025 - Cybran Build Scaffolding
+UCB0026 - Cybran Build Scaffolding
+UCB0027 - Cybran Build Scaffolding
+UCB0028 - Cybran Build Scaffolding
+UCB0101 - Point Defense Tower
+UCB0102 - Anti-Air Defense Tower
+UCB0105 - Long Range Artillery
+UCB0202 - Shield Generator
+UCB0204 - Nuke Missile and Defense Silo
+UCB0303 - Radar/Sonar Installation
+UCB0701 - Mass Extractor
+UCB0702 - Energy Generator
+UCB0704 - Mass Convertor
+UCB0801 - Research Station
+UCB0903 - Ferry Marker - Illuminate Transport Beacon
+
+Land Units -
+
+UCL0001 - Armored Command Unit (ACU)
+UCL0002 - Engineer
+UCL0102 - Brackman Artillery
+UCL0103 - Loyalist Assault Bot
+UCL0104 - Cobra Mobile Missile Launcher
+UCL0204 - Adaptor Mobile Shield, Anti-Air and Anti-Missile
+
+Upgrade Modules -
+
+UCM0001 - Cybran Commander Escape Pod
+UCM0111 - Point Defense Add-on
+UCM0121 - Anti-Air Railgun Add-on
+UCM0131 - Torpedo Add-on
+UCM0141 - Intel Installation Add-on
+UCM0211 - Shield Add-on
+
+Sea Units -
+
+UCS0103 - Salem Class Destroyer
+UCS0105 - Executioner Class Battleship
+UCS0901 - Command Class Aircraft Carrier
+
+Experimentals -
+
+UCX0101 - Megalith II Experimental Megabot
+UCX0102 - Giant Transport Experimental Air Transport
+UCX0103 - Bomb Bouncer Experimental Reflector Shield
+UCX0111 - Cybranasaurus Rex Experimental Lizardbot
+UCX0112 - Soul Ripper II Experimental Gunship
+UCX0113 - Kraken Experimental Giant Submarine
+UCX0114 - Magnetron Experimental Unit Magnet
+UCX0115 - Proto-Brain Complex Experimental Research Center
+UCX0116 - Proto-Brain Experimental Brain
+
+--------------------------------
+--Cybran DLC
+--------------------------------
+
+Air Units -
+
+UCA0105D1 - Intellitron Air Scout
+
+Structure Units -
+
+UCB0205D1 - Boomerang Nuclear Missile Defense
+UCB0401D1 - Recycler Mass Reclaiming Facility
+UCB0704 - Mass Convertor
+
+Land Units -
+
+UCL0002 - Engineer
+
+Sea Units - 
+
+UCS0103 - Salem Class Destroyer
+UCS0105 - Executioner Class Battleship
+UCS0901 - Command Class Aircraft Carrier
+
+Experimentals - 
+
+UCX0103 - Bomb Bouncer Experimental Reflector Shield
+UCX0104D1 - Cicada Experimental Mobile Cloak Generator
+UCX0117D1 - Monkeylord Experimental Spiderbot
+
+--------------------------------
+--Illuminate
+--------------------------------
+
+Air Units -
+
+UIA0103 - Vulthoo Gunship
+UIA0104 - Weedoboth Fighter / Bomber
+UIA0901 - HeeHola Air Transport
+
+Structure Units -
+
+UIB0001 - Land Factory
+UIB0002 - Air Factory
+UIB0011 - Experimental Gantry
+UIB0021 - Illuminate Build Scaffolding
+UIB0022 - Illuminate Build Scaffolding
+UIB0023 - Illuminate Build Scaffolding
+UIB0024 - Illuminate Build Scaffolding
+UIB0025 - Illuminate Build Scaffolding
+UIB0101 - Point Defense Tower
+UIB0102 - Anti-Air Defense Tower
+UIB0106 - Tactical Missile Launcher
+UIB0107 - Nuke Missile Silo
+UIB0202 - Shield Generator
+UIB0203 - Tactical / Nuke Missile Defense Silo
+UIB0301 - Radar Installation
+UIB0701 - Mass Extractor
+UIB0702 - Energy Generator
+UIB0704 - Mass Convertor
+UIB0801 - Research Station
+UIB0902 - Teleport Beacon - Space Temple Rift Marker
+UIB0903 - Ferry Marker
+
+Land Units -
+
+UIL0001 - Armored Command Unit (ACU)
+UIL0002 - Engineer
+UIL0101 - Yenzoo Tank
+UIL0103 - Harvog Assault Bot
+UIL0104 - Fistoosh Mobile Missile Launcher
+UIL0105 - Crahdow Mobile Anti-Air Gun
+UIL0202 - Bodaboom Armor Booster
+UIL0203 - Sliptack Mobile Anti-Missile
+
+Upgrade Modules -
+
+UIM0001 - Illuminate Commander Escape Pod
+UIM0002 - Rogue Nanites Regeneration and Attack Pod
+UIM0111 - Point Defense Add-on
+UIM0121 - Anti-Air Railgun Add-on
+UIM0131 - Torpedo Add-on
+UIM0141 - Intel Installation Add-on
+UIM0211 - Shield Add-on
+
+Experimentals -
+
+UIX0101 - Urchinow Experimental Assault Block
+UIX0102 - Wilfindja Experimental Sea Hunter
+UIX0103 - Airnomo Experimental Air Defense
+UIX0111 - Universal Colossus Experimental Assault Bot
+UIX0112 - Darkenoid Experimental Giant Saucer
+UIX0113 - Space Temple Experimental Teleporter
+UIX0114 - Loyalty Gun Experimental Conversion Ray
+UIX0115 - Pulinsmash Experimental Mobile Unit Magnet
+UIX0116 - Sea Hunter Pod
+
+--------------------------------
+--Illuminate DLC
+--------------------------------
+
+Land Units -
+
+UIL0101 - Yenzoo Tank
+UIL0106D1 - Shotja Sniper Bot
+
+Experimentals -
+
+UIX0104D1 - Buhbledow Experimental Shield Destroyer
+UIX0105D1 - Sooprizer Experimental Gunship
+UIX0118D1 - Illuminator Experimental Intel Gathering Station
+
+--------------------------------
+--UEF
+--------------------------------
+
+Air Units -
+
+UUA0101 - Wasp Fighter
+UUA0102 - Eagle Eye Bomber
+UUA0103 - Broadsword Gunship
+UUA0901 - C18 Star Lifter Air Transport
+
+Structure Units -
+
+UUB0001 - Land Factory
+UUB0002 - Air Factory
+UUB0003 - Sea Factory
+UUB0011 - Land Gantry
+UUB0012 - Air Gantry
+UUB0021 - UEF Build Scaffolding
+UUB0022 - UEF Build Scaffolding
+UUB0023 - UEF Build Scaffolding
+UUB0024 - UEF Build Scaffolding
+UUB0025 - UEF Build Scaffolding
+UUB0026 - UEF Build Scaffolding
+UUB0027 - UEF Build Scaffolding
+UUB0028 - UEF Build Scaffolding
+UUB0101 - Point Defense Tower
+UUB0102 - Anti-Air Defense Tower
+UUB0104 - Fortified Artillery Structure
+UUB0105 - Long Range Artillery
+UUB0107 - Nuke Missile Silo
+UUB0202 - Shield Generator
+UUB0203 - Nuke Defense Silo
+UUB0301 - Radar Station
+UUB0302 - Sonar Station
+UUB0701 - Mass Extractor
+UUB0702 - Energy Generator
+UUB0704 - Mass Convertor
+UUB0801 - Research Station
+UUB0903 - Ferry Marker
+
+Land Units -
+
+UUL0001 - Armored Command Unit (ACU)
+UUL0002 - Engineer
+UUL0101 - Rock Head Tank
+UUL0102 - Demolisher Artillery
+UUL0103 - Titan Assault Bot
+UUL0104 - Meteor Mobile Missile Launcher
+UUL0105 - Archanist Mobile Anti-Air Gun
+UUL0201 - P-Shield Mobile Shield Generator
+UUL0203 - Sharp Shooter Mobile Anti-Missile Defense
+
+Upgrade Modules -
+
+UUM0001 - UEF Commander Escape Pod
+UUM0111 - Point Defense Add-on
+UUM0121 - Anti-Air Add-on
+UUM0131 - Torpedo Add-on
+UUM0141 - Intel Installation Add-on
+UUM0211 - Shield Add-on
+
+Sea Units -
+
+UUS0102 - Mastadon Cruiser
+UUS0104 - Tigershark Submarine
+UUS0105 - Poseidon Battleship
+
+Experimentals -
+
+UUX0101 - Fatboy II Experimental Assault Vehicle
+UUX0102 - AC-1000 Terror Experimental Assault Plane
+UUX0103 - C-230 Star King Extreme Experimental Air Transport
+UUX0104 - Atlantis II Experimental Aircraft Carrier
+UUX0111 - King Kriptor Experimental Assault Bot
+UUX0112 - Mega Fortress Experimental Mobile Factory
+UUX0114 - Noah Unit Cannon Experimental Unit Cannon
+UUX0115 - Disruptor Station Experimental Quantum Distortion Artillery
+
+--------------------------------
+--UEF DLC
+--------------------------------
+
+Structure Units -
+
+UUB0705D1 - Research Convertor
+
+Land Units -
+
+UUL0003D1 - Field Engineer Mobile Repair and Support Unit
+
+Experimentals -
+
+UUX0105D1 - Super Triton Experimental Dreadnought
+UUX0113D1 - Jackhammer Experimental Unpacking Cannon
+UUX0116D1 - Aegis Experimental Shield Generator
